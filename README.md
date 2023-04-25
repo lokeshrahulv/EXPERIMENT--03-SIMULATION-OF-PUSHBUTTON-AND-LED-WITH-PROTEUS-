@@ -144,8 +144,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ### When Switch is in OFF state:
+![Screenshot (109)](https://user-images.githubusercontent.com/118423842/234250262-cdca4ed6-b606-43fc-a738-8ea553611ec6.png)
 
 ### When Switch is in ON state:
+![Screenshot (108)](https://user-images.githubusercontent.com/118423842/234249850-b0961080-3ddf-4944-99f4-12642f11f472.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
